@@ -15,5 +15,5 @@ Antes de começar, verifique se você tem os seguintes requisitos instalados em 
 ### 1. Clone o repositório
 
 ```bash
-git clone 
+git clone https://github.com/dudu148877/desafio-dev_ti.git
 cd cnab
