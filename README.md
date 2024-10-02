@@ -15,5 +15,5 @@ Antes de começar, verifique se você tem os seguintes requisitos instalados em 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/cnab-parser.git
-cd cnab-parser
+git clone 
+cd cnab
